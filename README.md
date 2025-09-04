@@ -34,4 +34,4 @@ It applies **Python, Pandas, and visualization tools** to extract insights about
 ---
 
 ## ✍️ Author
-**Your Name**
+**Rishav Kumar**
