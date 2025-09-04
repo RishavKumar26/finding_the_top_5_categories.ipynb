@@ -29,9 +29,15 @@ It applies **Python, Pandas, and visualization tools** to extract insights about
 ## 🔮 Future Improvements
 - Automate category ranking with a dashboard.  
 - Allow dynamic selection of **Top N categories** instead of fixed 5.  
-- Integrate with machine learning models for predictive insights.  
+- Integrate with machine learning models for predictive insights.
+
 
 ---
 
-## ✍️ Author
-**Rishav Kumar**
+## ✍️ Author  
+**Project By -   Rishav Kumar**  
+
+**[GitHub](https://github.com/RishavKumar26)**  
+
+**[LinkedIn](https://www.linkedin.com/in/rishav-kumar-8315b324a/)**  
+
